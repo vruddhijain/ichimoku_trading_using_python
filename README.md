@@ -7,4 +7,4 @@ Implementation:
 Pandas, 
 Pandas TA, 
 mplfinance, 
-matplotlib, 
+matplotlib.
