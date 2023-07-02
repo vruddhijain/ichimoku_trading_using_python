@@ -4,7 +4,7 @@ In my quest to develop a standout and customized algorithm for trade entry, I ha
 
 
 Implementation:
-Pandas
-Pandas TA
-mplfinance
-matplotlib
+Pandas, 
+Pandas TA, 
+mplfinance, 
+matplotlib, 
